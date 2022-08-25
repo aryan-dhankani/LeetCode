@@ -1,2 +1,2 @@
-# LeetCode
-A repo for my Leetcode Medium/Hard level solutions with comments and algorithms explained.
+Leetcode's Medium/Hard level solutions in C++ with comments and algorithms explained.
+
